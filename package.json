@@ -19,7 +19,7 @@
     "svelte": "^3.49.0"
   },
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "sirv-cli": "^2.0.0"
   }
 }
